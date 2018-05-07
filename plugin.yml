@@ -1,0 +1,8 @@
+main: me.oisinaylward.warp.Warp
+name: Warp
+version: 1.0
+author: Oisin Aylward
+description: Warp plugin.
+commands:
+  warp:
+    description: Used to warp, set warps and delete warps.
